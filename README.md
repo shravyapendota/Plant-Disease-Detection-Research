@@ -33,7 +33,7 @@ This repository contains my research on an **Offline Plant Disease Detection Dev
 - Can be **upgraded with more plant disease data** for better accuracy.  
 
 ## 📂 **Repository Contents**  
-- 📄 **[Research Paper (PDF)](file:///C:/Users/DELL/OneDrive/Desktop/Offline_enabled_plant_disease_detection_device_final.pdf)**  
+- 📄 **[Research Paper (PDF)](https://github.com/shravyapendota/Plant-Disease-Detection-Research/blob/main/Offline_enabled_plant_disease_detection_device_final.pdf)**  
 - 📝 **Abstract & Summary**  
 - 📊 **Dataset Information (if applicable)**  
 
