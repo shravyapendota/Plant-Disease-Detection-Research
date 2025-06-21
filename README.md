@@ -2,17 +2,12 @@
 
 ---
 
-# 🌿 **Offline Plant Disease Detection Using Machine Learning**  
-**AI for Agriculture | CNN-Based Image Analysis | Smart Farming**  
 
 ## 📌 **Overview**  
 This repository contains my research on an **Offline Plant Disease Detection Device** that helps farmers **identify plant diseases directly in their fields** without needing internet access or expert assistance. The device uses **Convolutional Neural Networks (CNNs)** for **image analysis**, providing real-time disease detection and recommendations.  
 
 ## 🚀 **Key Features**  
 
-### ✅ **Offline Functionality**  
-- Works **without internet connectivity**, making it ideal for remote areas.  
-- Farmers can detect diseases **on the spot** without external help.  
 
 ### 📸 **AI-Powered Image Analysis**  
 - Uses **CNNs** to analyze plant images and classify diseases accurately.  
